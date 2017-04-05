@@ -1,5 +1,5 @@
 package dipendente;
-
+ //adasfsa
 class DipendenteA extends Dipendente{
 	private int malattia=0;
 	
