@@ -10,7 +10,7 @@ package dipendente;
  * @author Riccardo
  */
 
-//modifica di prova
+//modifica di prova, sulla branch mod
 
 public class Dipendente {
 
