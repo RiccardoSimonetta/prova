@@ -10,7 +10,7 @@ package dipendente;
  * @author Riccardo
  */
 
-//modifica1
+//modifica2
 
 public class Dipendente {
 
